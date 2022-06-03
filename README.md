@@ -1,7 +1,7 @@
 - Hi, I'm @noobtodamax, a computer science student.
 - I am interested in decentralization, open source code, & everything unfortunately.
 - I have been introduced to HTML, CSS, Java, & React in the past.
-- Currently enrolled in classes on computer science basics & Python.
+- Understand the basics of Python
 - I’m looking to collaborate on adding dark mode to every application ever.
 - Linux & Windows fan boy. Yes, I do not value my time. How did you know?
 - I like to use ampersands.
